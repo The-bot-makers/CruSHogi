@@ -2,7 +2,7 @@ import shogi
 import threading
 import time
 
-class FFEngine():
+class CruSHogi():
     def __init__(self):
         self.QualifiedMoves=[]
         self.Premoves={}
